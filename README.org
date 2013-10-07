@@ -1,0 +1,6 @@
+* android-python-hacks
+
+This is just a repo for playing with python on Android.  Nothing useful here, yet.
+
+
+ 
