@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# The standard sleek example echo bot, modified to do some androidy
+# The standard SleekXMPP example echo bot, modified to do some androidy
 # stuff
 
 
